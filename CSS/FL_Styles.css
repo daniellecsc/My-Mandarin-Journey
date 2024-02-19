@@ -15,7 +15,7 @@ html, body{
     height: 100vh;
     margin: 0;
     padding: 0;
-    background-image: url('../Assets/gradient.png');
+    background-image: url('/Assets/gradient.png');
     background-size: cover;
     background-position: center;
 }
@@ -28,7 +28,6 @@ html, body{
     width: 100%;
     margin:0;
     padding: 0;
-    
 }
 
 .navbar ul{
@@ -269,7 +268,7 @@ html, body{
 }
 
 .PortfolioContainercopy{
-    height: 900px;
+    height: 3000px;
 }
 
 .actContainer{
@@ -572,7 +571,7 @@ html, body{
     height: 100vh;
     margin: 0;
     padding: 0;
-    background-image: url('../Assets/aboutbg.png');
+    background-image: url('/Assets/aboutbg.png');
     background-size: cover;
     background-position: center;
 }
@@ -781,7 +780,6 @@ html, body{
     font-family: 'Albert Sans';
     letter-spacing: 2px;
     letter-spacing: 0px;
-    text-shadow: 1px 1px 1px #3d3d3d;
     margin: 5px;
 }
 
