@@ -15,7 +15,7 @@ html, body{
     height: 100vh;
     margin: 0;
     padding: 0;
-    background-image: url('./Assets/gradient.png');
+    background-image: url('../Assets/gradient.png');
     background-size: cover;
     background-position: center;
 }
@@ -571,7 +571,7 @@ html, body{
     height: 100vh;
     margin: 0;
     padding: 0;
-    background-image: url('./Assets/aboutbg.png');
+    background-image: url('../Assets/aboutbg.png');
     background-size: cover;
     background-position: center;
 }
