@@ -485,6 +485,31 @@ html, body{
     color: #a6116f;
 }
 
+.seventhDef{
+    color: lightgray;
+    font-size: 22px;
+    font-family: 'Albert Sans';
+    letter-spacing: 2px;
+    letter-spacing: 0px;
+    text-shadow: 2px 2px 2px #1d1c1c;
+}
+
+.seventhDef div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.seventhDef div h2{
+    text-align: center;
+}
+
+.seventhDef div h3{
+    font-size: 19px;
+    color: #a6116f;
+}
+
 .projectDef{
     color: lightgray;
     font-size: 23px;
