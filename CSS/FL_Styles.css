@@ -268,7 +268,7 @@ html, body{
 }
 
 .PortfolioContainercopy{
-    height: 4600px;
+    height: 5200px;
 }
 
 .actContainer{
@@ -531,6 +531,31 @@ html, body{
 }
 
 .eighthDef div h3{
+    font-size: 19px;
+    color: #a6116f;
+}
+
+.ninthDef{
+    color: lightgray;
+    font-size: 22px;
+    font-family: 'Albert Sans';
+    letter-spacing: 2px;
+    letter-spacing: 0px;
+    text-shadow: 2px 2px 2px #1d1c1c;
+}
+
+.ninthDef div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.ninthDef div h2{
+    text-align: center;
+}
+
+.ninthDef div h3{
     font-size: 19px;
     color: #a6116f;
 }
